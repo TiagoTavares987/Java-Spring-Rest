@@ -1,4 +1,4 @@
-# Development of a REST API for sending SMS
+# Development of a REST API project for sending asynchronous SMS
 
 # Technologies used:
 Java Spring Framework
