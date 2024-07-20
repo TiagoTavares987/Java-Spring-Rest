@@ -82,7 +82,7 @@ Parameters
 Body
 {
     "ids":[1],
-    "message":"Isto é um teste"
+    "message":"This is a test."
 }
 
 Response 200
@@ -128,4 +128,3 @@ Response 200
 {
     true
 }
-
