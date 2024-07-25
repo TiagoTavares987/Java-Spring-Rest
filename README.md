@@ -73,7 +73,7 @@ Response 200
 
 --------------------
 
-Sending Sms
+Sending Sms's
 
 POST	localhost:8080/recipient/send
 
